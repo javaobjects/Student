@@ -131,7 +131,7 @@ Windows
 - 1.数据库：在navicat中运行数据库脚本生成对应的数据库表
 - 2.后台启动：导入项目，在src/main/resources/application.yml文件里更改数据库名称或数据库密码,进入控制台，到项目所在路径，执行命令：mvn clean spring-boot:run
 - 3.前台启动：导入项目，进入控制台，到项目所在路径，执行命令：npm install 后 npm run serve，访问对应的地址进入到登录界面
-- 4. 登录用户名密码如下
+- 4.登录用户名密码如下
 
 ```
 用户id:1

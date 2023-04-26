@@ -26,7 +26,7 @@ Windows
 | Mysql        | 5.5.27    | 关系型数据库                   |
 | Apache-maven | 3.9.0     | Java 项目管理和构建工具           |
 | Nvm          | 1.10      | Node.js 版本管理器            |
-| Node         | 8.12.0    | Node.js JavaScript 运行时环境 |
+| Node         | 16.20.0   | Node.js JavaScript 运行时环境 |
 
 #### 开发工具
 
@@ -142,7 +142,9 @@ Windows
 用户密码：1234
 用户类型: 教师
 
-admin登录有bug
+用户id:6
+用户密码：123
+用户类型: admin
 ```
 
 ![](readme/sb-1.png)
@@ -152,6 +154,12 @@ admin登录有bug
 ![](readme/vue-1.png)
 
 ![](readme/vue-2.png)
+
+#### 项目截图
+
+
+
+
 
 #### 拓展知识
 
